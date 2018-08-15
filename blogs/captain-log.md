@@ -1,7 +1,7 @@
 
 ## 2018-August-15 (Wednesday) | ⭐️ ⚙️
 
-Now it's the time to explain what is the purpose of Trinkets and why it exists.
+Now is the time to explain what's the purpose of Trinkets and why it exists.
 
 Some of the things are not yet crystal clear in my mind, so it might take some time to put them in writing and I might come back to edit this text in the future.
 

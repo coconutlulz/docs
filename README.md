@@ -1,7 +1,10 @@
 # Trinkets 📖 blogs and specs
 
-[![](https://img.shields.io/badge/project-trinkets-purple.svg?longCache=true&style=flat-square&colorB=4b0082)](https://github.com/ShinyTrinkets/)
+[![Project name][project-img]][project-url]
 
 Welcome to Shiny Trinkets documents!
 
 This is work-in-progress. For now you can navigate to [blogs/](blogs/) and read the posts there.
+
+[project-img]: https://badgen.net/badge/%E2%AD%90/Trinkets/4B0082
+[project-url]: https://github.com/ShinyTrinkets
